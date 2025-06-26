@@ -1,1 +1,84 @@
-ìoQT£¢çÎàÙá ¡bÒéÐ ÁÚ t©ÚíÎæíkR®A?QRU§ØÄÊæÜèTmT°~QRSTUäÚ£ ®áÜØ®?=TUQRSTUÖè £oQRSTUÑ¥><STUQRSVÖÝÔäÙkR®A?QRSTU¤§W«À~QRSTUQRSTUØÕå¤@>UQRSTUÑ¥><STUQRSTUäÙì¦§Voë×çÙ;RSTUQR°`B{QRSTUÓÚí¤UnUìoQRSTUQRU¦äìÑæ³Q ¨ÖoQRSTUñ;RSTUñ¥><STU ¢¨Öé²×èá UnUìoQRSTUé¤¡êçÊå³Q@>UQRSTUâ¦UA?QRSTUÔ~QRSTUS¤ãÜ¬ô><STUQRSTUÓæà¤TmT~QRSTUQRSTU¢§~QRSTUQRSToQRSTUQRU¦äìÑæ³QdcdB{QRSTUâQRSTUQT©Öé¬ô><STUQRSTUäÙì¦§Voª¢QRSTUQ¯@>UQ¯_A?QRU­å¸Óáèá¤©ÙæÉ®¬?=TUQRSTWÓÜËáæÞSlS¯B{QRSTUS¤§ªÝë¬í£§A?QRSTUô~QRSTUS¨ãï;RSTUQRSTU××çî¦UnU×ØÑåÙ;RSTUQR°A?QR°`B{QRSVÖÝÔäÙÈ¬åßÔÖ³Q­@>UQRSTUçÆäÕæ«£¨±ÍQRSTUQRSTUáÆèÕ§¡cÄë×ÛâàS?=TUQRSToQRSTUÛ¢¦±íQRSTUQRSTUØ×ÙçkRA?QRSTUQRSV¢àÛÎØÝÞt¤ãÜ~QRSTUQRST~QRSTUïQRSTUï ;RSTUÚ¦¦ßãÞ¿Ùí¡Voòr|QRSTU¡¥¢ÅðÕ×çkRA?QRSTU©cÝØÓÙ¢Ì¥¤¢oQRSTUÑ¥><STUQRSV×ëÊä³Q­@>UQRSTUë¥¨ ©±Ý¡©U×àÑ×ÚåªR¥¬ãé×QRSTUQ¯@>UQ¯@>Uï ;RSTUÚÔß¢é ¤àâÖÕë`v££äë×ç×í ¤v äê¬ô><STU¡¡§©ãìÈæãëSlS¯B{QRSTUâÕë­¥Öê¬Ô><STUQRSTUÔãè¢WoQRSTUQRUçØÞÕç`¨§ÚåÌ ;RSTUQRSTUÇáãå¡Va~QRSTUQT££Ø~QRSTUQRSTWÝæÓÙ¥><STUQRSTUÜÕï`£Ø¥¸ææâU`B{QRSTUSªãÆàÛ§¦¥£Ø~QRSTUQRSTWÛØÛÓ¢å båéÎàÛ><STUQRSa~QRSTUÖÞ¡¥W«à~QRSTUQRSTWÒéÌå³Q@>UQRSTUQR§¦ªÖ£r|QRSTUQRSTUÂàÚª§£§Ö~QRSTUQRSTUØÕå¤_A?QRSTUQRSda~QRSTUQRSTU¡£r|QRSTUQRSTUàéåT_A?QRSTUQRSVÖØ×Þí]?=TUQRSTUQT¡©¡Ýr|QRSTUQRSB{QRSTUâ~QRSTUâ~QRS±B{ô
+{
+    "com.pinehook.dark.MainActivity": {
+        "argMethod": {
+            "paramTypes": [
+                "boolean"
+            ],
+            "before": {
+                "args": [
+                    false
+                ],
+                "result": true
+            },
+            "after": {
+                "result": false
+            }
+        },
+        "anotherMethod": {
+            "paramTypes": [
+                "int"
+            ],
+            "before": {
+                "args": [
+                    100
+                ],
+                "result": 200
+            },
+            "after": {
+                "result": 300
+            }
+        },
+        "yetAnotherMethod": {
+            "before": {
+                "result": true
+            },
+            "after": {
+                "result": false
+            }
+        },
+        "beforeOnlyMethod": {
+            "paramTypes": [
+                "java.lang.String"
+            ],
+            "before": {
+                "args": [
+                    "modifiedBefore"
+                ]
+            }
+        },
+        "afterOnlyMethod": {
+            "paramTypes": [
+                "java.lang.String"
+            ],
+            "after": {
+                "result": "i love filefly rawrrr"
+            }
+        }
+    },
+    "com.pinehook.dark.ConstructorClass": {
+        "constructor": {
+            "paramTypes": [
+                "boolean",
+                "java.lang.String",
+                "boolean",
+                "long",
+                "long",
+                "java.lang.String",
+                "java.lang.String",
+                "java.lang.String"
+            ],
+            "before": {
+                "args": [
+                    true,
+                    "PlayStore",
+                    false,
+                    0,
+                    0,
+                    "null",
+                    "Yearly",
+                    "null"
+                ]
+            }
+        }
+    }
+}
