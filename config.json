@@ -1,10 +1,12 @@
 {
   "title": "Update Available",
-  "subtitle": "New Version Release",
+  "subtitle": "New Version Release ✨",
   "btn_update": "UPDATE NOW",
   "btn_exit": "EXIT",
   "link": "https://play.google.com/store/apps/details?id=com.example",
-  
+
+  "whatsnew": "⚡ Faster performance\n🐞 Bug fixes\n✨ New features",
+
   "icons": [
     {
       "img": "https://cdn-icons-png.flaticon.com/512/1828/1828911.png"
@@ -13,7 +15,7 @@
       "img": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
     },
     {
-      "img": "https://cdn-icons-png.flaticon.com/512/1384/1384017.png",
+      "img": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
       "link": "https://t.me/example"
     }
   ]
