@@ -1,5 +1,4 @@
-{
-  "credit": "D4RK SYSTEM",
+Telegramdit": "D4RK SYSTEM",
   "show_dialog": true,
 
   "title": "Update Available",
@@ -28,7 +27,7 @@
 
   "about_title": "About This App",
   "about_text": "This application was created by D4RK SYSTEM.\nSpecial thanks to all supporters 🙏",
-  "about_btn": "Join Telegram",
+  "about_btn": "Telegram",
   "about_telegram": "https://t.me/example",
 
   "nointernet_msg": "⚠️ Please check your internet connection",
