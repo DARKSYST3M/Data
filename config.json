@@ -1,25 +1,30 @@
 {
-  "credit": "D4RK SYSTEM", 
+  "credit": "D4RK SYSTEM",
   "show_dialog": true,
-
   "title": "Update Available",
-  "subtitle": "New version release ✨",
-  "btn_update": "UPDATE NOW",
-  "btn_exit": "EXIT",
-  "link": "https://play.google.com/store/apps/details?id=com.example",
+  "subtitle": "Versi baru sudah siap untuk kamu",
+  "btn_update": "Update",
+  "btn_exit": "Exit",
+  "link": "https://play.google.com/store/apps/details?id=com.example.app",
 
-  "whatsnew": "⚡ Faster performance\n🐞 Bug fixes\n✨ New features",
+  "whatsnew": "- Fix bug UI\n- Tambah fitur changelog\n- Optimasi performa",
+
+  "about_title": "About Me",
+  "about_text": "Halo, saya developer dari aplikasi ini.\nTerima kasih sudah menggunakan aplikasi ini 🙏",
+  "about_telegram": "https://t.me/username",
 
   "icons": [
     {
-      "img": "https://cdn-icons-png.flaticon.com/512/1828/1828911.png"
+      "img": "https://img.icons8.com/color/96/changelog.png",
+      "link": ""
     },
     {
-      "img": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+      "img": "https://img.icons8.com/color/96/about.png",
+      "link": ""
     },
     {
-      "img": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
-      "link": "https://t.me/example"
+      "img": "https://img.icons8.com/color/96/external-link.png",
+      "link": "https://github.com/DARKSYST3M"
     }
   ]
 }
