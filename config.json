@@ -12,9 +12,12 @@
   "changelog_title": "Apa yang Baru?",
 
   "about_title": "Tentang Aplikasi",
-  "about_text": "Aplikasi ini di MOD BY D4RKSYSTEM.\nTerimaima kasih sudah menggunakan!",
+  "about_text": "Aplikasi ini di MOD BY D4RKSYSTEM.\nTerima kasih sudah menggunakan!",
   "about_telegram": "https://t.me/d4rksystem",
-  "about_btn": "TELEGRAM",
+  "about_btn": "JOIN TELEGRAM",
+
+  "about_channel": "https://t.me/cukhz",
+  "about_channel_btn": "CHANNEL TELEGRAM",
 
   "nointernet_msg": "⚠️ Tidak ada koneksi internet.\nSilakan cek jaringan Anda.",
   "nointernet_btn": "Tutup",
@@ -22,15 +25,15 @@
   "icons": [
     {
       "img": "https://cdn-icons-png.flaticon.com/512/1827/1827504.png",
-      "link": "" 
+      "link": ""
     },
     {
       "img": "https://cdn-icons-png.flaticon.com/512/1827/1827505.png",
-      "link": "" 
+      "link": ""
     },
     {
       "img": "https://cdn-icons-png.flaticon.com/512/1827/1827506.png",
       "link": "https://google.com"
     }
   ]
-}TELEGRAMELEGRAMELEGRAM
+}
