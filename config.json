@@ -1,6 +1,9 @@
 {
+  "credit": "D4RK SYSTEM", 
+  "show_dialog": true,
+
   "title": "Update Available",
-  "subtitle": "New Version Release ✨",
+  "subtitle": "New version release ✨",
   "btn_update": "UPDATE NOW",
   "btn_exit": "EXIT",
   "link": "https://play.google.com/store/apps/details?id=com.example",
