@@ -2,35 +2,35 @@
   "credit": "D4RK SYSTEM",
   "show_dialog": true,
 
-  "title": "Update Available",
-  "subtitle": "Version 2.0 is now live!",
-  "btn_update": "Update Now",
-  "btn_exit": "Exit App",
-  "link": "https://example.com/update",
+  "title": "Update Available 🚀",
+  "subtitle": "Versi terbaru sudah tersedia!",
+  "btn_update": "UPDATE",
+  "btn_exit": "EXIT",
+  "link": "https://play.google.com/store/apps/details?id=com.example.app",
+
+  "whatsnew": "✨ Fitur baru:\n- Dark Mode\n- Bug Fixes\n- Performa lebih cepat",
+  "changelog_title": "Apa yang Baru?",
+
+  "about_title": "Tentang Aplikasi",
+  "about_text": "Aplikasi ini dibuat oleh D4RK SYSTEM.\nTerima kasih sudah menggunakan!",
+  "about_telegram": "https://t.me/d4rksystem",
+  "about_btn": "TELEGRAM",
+
+  "nointernet_msg": "⚠️ Tidak ada koneksi internet.\nSilakan cek jaringan Anda.",
+  "nointernet_btn": "Tutup",
 
   "icons": [
     {
-      "img": "https://example.com/icons/changelog.png",
-      "link": ""
+      "img": "https://cdn-icons-png.flaticon.com/512/1827/1827504.png",
+      "link": "" 
     },
     {
-      "img": "https://example.com/icons/about.png",
-      "link": ""
+      "img": "https://cdn-icons-png.flaticon.com/512/1827/1827505.png",
+      "link": "" 
     },
     {
-      "img": "https://example.com/icons/telegram.png",
-      "link": "https://t.me/example"
+      "img": "https://cdn-icons-png.flaticon.com/512/1827/1827506.png",
+      "link": "https://google.com"
     }
-  ],
-
-  "whatsnew": "- Fix crash on startup\n- Improve UI performance\n- Add new themes",
-  "changelog_title": "Changelog",
-
-  "about_title": "About This App",
-  "about_text": "This application was created by D4RK SYSTEM.\nSpecial thanks to all supporters 🙏",
-  "about_btn": "Telegram",
-  "about_telegram": "https://t.me/example",
-
-  "nointernet_msg": "⚠️ Please check your internet connection",
-  "nointernet_btn": "Close App"
-}
+  ]
+}TELEGRAMELEGRAMELEGRAM
