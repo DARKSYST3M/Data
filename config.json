@@ -14,13 +14,12 @@
   "about_title": "Tentang Aplikasi",
   "about_text": "Aplikasi ini di MOD BY D4RKSYSTEM.\nTerima kasih sudah menggunakan!",
   "about_telegram": "https://t.me/d4rksystem",
-  "about_btn": "JOIN TELEGRAM",
-
-  "about_channel": "https://t.me/cukhz",
-  "about_channel_btn": "CHANNEL TELEGRAM",
+  "about_btn": "TELEGRAM",
 
   "nointernet_msg": "⚠️ Tidak ada koneksi internet.\nSilakan cek jaringan Anda.",
   "nointernet_btn": "Tutup",
+
+  "force_signature_check": true, 
 
   "icons": [
     {
