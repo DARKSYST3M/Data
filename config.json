@@ -2,9 +2,44 @@
   "credit": "D4RK SYSTEM",
   "show_dialog": true,
   "title": "🚀 Update Available",
-  "subtitle": "✨ New Version Release ✨",
-  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
-  "btn_update": "Update Now",
-  "btn_exit": "Exit",
-  "link": "https://t.me/D4RKSYSTEM"
+  "btn_update": "UPDATE NOW",
+  "btn_exit": "EXIT",
+  "link": "https://example.com/download",
+
+  "light": {
+    "subtitle": "☀️ Fresh Update for You!",
+    "icons": [
+      {
+        "img": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+        "message": "Instagram (Light Mode)",
+        "link": "https://instagram.com/"
+      },
+      {
+        "img": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
+        "message": "Telegram (Light Mode)",
+        "link": "https://t.me/example"
+      }
+    ]
+  },
+
+  "dark": {
+    "subtitle": "🌙 Night Update Mode!",
+    "icons": [
+      {
+        "img": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+        "message": "Instagram (Dark Mode)",
+        "link": "https://instagram.com/"
+      },
+      {
+        "img": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
+        "message": "Telegram (Dark Mode)",
+        "link": "https://t.me/example"
+      },
+      {
+        "img": "https://cdn-icons-png.flaticon.com/512/5968/5968830.png",
+        "message": "Website (Dark Mode)",
+        "link": "https://example.com/changelog"
+      }
+    ]
+  }
 }
