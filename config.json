@@ -1,30 +1,36 @@
 {
   "credit": "D4RK SYSTEM",
   "show_dialog": true,
+
   "title": "Update Available",
-  "subtitle": "Versi baru sudah siap untuk kamu",
-  "btn_update": "Update",
-  "btn_exit": "Exit",
-  "link": "https://play.google.com/store/apps/details?id=com.example.app",
-
-  "whatsnew": "- Fix bug UI\n- Tambah fitur changelog\n- Optimasi performa",
-
-  "about_title": "About Me",
-  "about_text": "Halo, saya developer dari aplikasi ini.\nTerima kasih sudah menggunakan aplikasi ini 🙏",
-  "about_telegram": "https://t.me/username",
+  "subtitle": "Version 2.0 is now live!",
+  "btn_update": "Update Now",
+  "btn_exit": "Exit App",
+  "link": "https://example.com/update",
 
   "icons": [
     {
-      "img": "https://img.icons8.com/color/96/changelog.png",
+      "img": "https://example.com/icons/changelog.png",
       "link": ""
     },
     {
-      "img": "https://img.icons8.com/color/96/about.png",
+      "img": "https://example.com/icons/about.png",
       "link": ""
     },
     {
-      "img": "https://img.icons8.com/color/96/external-link.png",
-      "link": "https://github.com/DARKSYST3M"
+      "img": "https://example.com/icons/telegram.png",
+      "link": "https://t.me/example"
     }
-  ]
+  ],
+
+  "whatsnew": "- Fix crash on startup\n- Improve UI performance\n- Add new themes",
+  "changelog_title": "Changelog",
+
+  "about_title": "About This App",
+  "about_text": "This application was created by D4RK SYSTEM.\nSpecial thanks to all supporters 🙏",
+  "about_btn": "Join Telegram",
+  "about_telegram": "https://t.me/example",
+
+  "nointernet_msg": "⚠️ Please check your internet connection",
+  "nointernet_btn": "Close App"
 }
